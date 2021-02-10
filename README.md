@@ -28,8 +28,11 @@ It is an multi screen user input based project.
 
 ### Output
 -> The user interface looks alike this:<br>
-<img alt="output1"  src="output1.png" align="left"/>
-<img alt="output2"  src="output2.png" align="right"/>
+
+<p float="left">
+  <img alt="output1"  src="output1.png" width="100" />
+  <img alt="output2"  src="output2.png" width="100" /> 
+</p>
 
 ### Developed by:
 <a href="https://github.com/sambit221">Sambit Kumar Tripathy</a>

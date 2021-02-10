@@ -30,8 +30,8 @@ It is an multi screen user input based project.
 -> The user interface looks alike this:<br>
 
 <p float="left">
-  <img alt="output1"  src="output1.png" width="100" />
-  <img alt="output2"  src="output2.png" width="100" /> 
+  <img alt="output1"  src="output1.png" width="250" />
+  <img alt="output2"  src="output2.png" width="250" /> 
 </p>
 
 ### Developed by:
